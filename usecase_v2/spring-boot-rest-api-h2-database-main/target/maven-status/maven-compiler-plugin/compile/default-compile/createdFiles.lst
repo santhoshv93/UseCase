@@ -1,0 +1,6 @@
+com\klm\flight\service\FlightServiceImpl.class
+com\klm\flight\SpringEmbeddedH2DbApplication.class
+com\klm\flight\service\FlightService.class
+com\klm\flight\model\Flight.class
+com\klm\flight\controller\FlightController.class
+com\klm\flight\repository\FlightRepository.class
